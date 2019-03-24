@@ -1,6 +1,6 @@
 # world_statistics
 
-This repository features data and some tentative analyses of the data. There is no clearly-defined goal, but perhaps a goal of generally finding features that are linked with reducing suffering and increasing happiness over various time-windows is one possible goal.
+This repository features data and some tentative analyses of the data. There is no clearly-defined goal, but perhaps finding features that are linked with reducing suffering and increasing happiness over various time-windows is one possible goal.
 
 # upcoming considerations: Inglehart–Welzel cultural map of the world
 
@@ -21,8 +21,6 @@ This is a scatter plot from data from the World Values Survey that considers clu
 |[Pew_Global_Attitudes_Homosexuality_Report_2014.csv](./Pew_Global_Attitudes_Homosexuality_Report_2014.csv)                      |            |
 |[UNODC_murder_rates_2014.csv](./UNODC_murder_rates_2014.csv)                                                                    |            |
 |[World_Happiness_Report_2017.csv](./World_Happiness_Report_2017.csv)                                                            |            |
-
-https://github.com/wdbm/world_statistics/blob/master/UNODC_murder_rates_2014.csv
 
 # tentative analyses
 
