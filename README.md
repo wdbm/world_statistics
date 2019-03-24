@@ -8,6 +8,10 @@ This repository features data and some tentative analyses of the data. There is 
 
 This is a scatter plot from data from the World Values Survey that considers clusters in a 2D map that has one axis as a scale of values from traditional to secular-rational and the other axis as a scale of values from survival to self-expression.
 
+temporal video version:
+
+[![Live cultural map over time 1981 to 2015.](https://img.youtube.com/vi/ABWYOcru7js/maxresdefault.jpg)](https://www.youtube.com/watch?v=ABWYOcru7js)
+
 # datasets
 
 |**data**                                                                                                                        |**comments**|
