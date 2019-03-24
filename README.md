@@ -10,22 +10,24 @@ This is a scatter plot from data from the World Values Survey that considers clu
 
 # datasets
 
-|**data**                                                       |**comments**|
-|---------------------------------------------------------------|------------|
-|<country_coordinates.csv>                                      |            |
-|<country_employment.csv>                                       |            |
-|<country_freedom_indices.csv>                                  |            |
-|<ILGA-RIWI_2016.csv>                                           |            |
-|<OECD_Employment_Outlook_2016_growth_rates_real_employment.csv>|            |
-|<OECD_Employment_Outlook_2016_growth_rates_real_GDP.csv>       |            |
-|<Pew_Global_Attitudes_Homosexuality_Report_2014.csv>           |            |
-|<UNODC_murder_rates_2014.csv>                                  |            |
-|<World_Happiness_Report_2017.csv>                              |            |
+|**data**                                                                                                                        |**comments**|
+|--------------------------------------------------------------------------------------------------------------------------------|------------|
+|[country_coordinates.csv](./country_coordinates.csv)                                                                            |            |
+|[country_employment.csv](./country_employment.csv)                                                                              |            |
+|[country_freedom_indices.csv](./country_freedom_indices.csv)                                                                    |            |
+|[ILGA-RIWI_2016.csv](./ILGA-RIWI_2016.csv)                                                                                      |            |
+|[OECD_Employment_Outlook_2016_growth_rates_real_employment.csv](./OECD_Employment_Outlook_2016_growth_rates_real_employment.csv)|            |
+|[OECD_Employment_Outlook_2016_growth_rates_real_GDP.csv](./OECD_Employment_Outlook_2016_growth_rates_real_GDP.csv)              |            |
+|[Pew_Global_Attitudes_Homosexuality_Report_2014.csv](./Pew_Global_Attitudes_Homosexuality_Report_2014.csv)                      |            |
+|[UNODC_murder_rates_2014.csv](./UNODC_murder_rates_2014.csv)                                                                    |            |
+|[World_Happiness_Report_2017.csv](./World_Happiness_Report_2017.csv)                                                            |            |
+
+https://github.com/wdbm/world_statistics/blob/master/UNODC_murder_rates_2014.csv
 
 # tentative analyses
 
-|**notebook**                                                   |**comments**|
-|---------------------------------------------------------------|------------|
-|<freedom_and_happiness.ipynb>                                  |            |
-|<growth_rates_GDP_employment.ipynb>                            |            |
-|<notebook_1.ipynb>                                             |            |
+|**notebook**                                                            |**comments**|
+|------------------------------------------------------------------------|------------|
+|[freedom_and_happiness.ipynb](./freedom_and_happiness.ipynb)            |            |
+|[growth_rates_GDP_employment.ipynb](./growth_rates_GDP_employment.ipynb)|            |
+|[notebook_1.ipynb](./notebook_1.ipynb)                                  |            |
