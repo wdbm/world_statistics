@@ -14,17 +14,18 @@ temporal video version:
 
 # datasets
 
-|**data**                                                                                                                        |**comments**|
-|--------------------------------------------------------------------------------------------------------------------------------|------------|
-|[country_coordinates.csv](./country_coordinates.csv)                                                                            |            |
-|[country_employment.csv](./country_employment.csv)                                                                              |            |
-|[country_freedom_indices.csv](./country_freedom_indices.csv)                                                                    |            |
-|[ILGA-RIWI_2016.csv](./ILGA-RIWI_2016.csv)                                                                                      |            |
-|[OECD_Employment_Outlook_2016_growth_rates_real_employment.csv](./OECD_Employment_Outlook_2016_growth_rates_real_employment.csv)|            |
-|[OECD_Employment_Outlook_2016_growth_rates_real_GDP.csv](./OECD_Employment_Outlook_2016_growth_rates_real_GDP.csv)              |            |
-|[Pew_Global_Attitudes_Homosexuality_Report_2014.csv](./Pew_Global_Attitudes_Homosexuality_Report_2014.csv)                      |            |
-|[UNODC_murder_rates_2014.csv](./UNODC_murder_rates_2014.csv)                                                                    |            |
-|[World_Happiness_Report_2017.csv](./World_Happiness_Report_2017.csv)                                                            |            |
+|**data**                                                                                                                        |**comments**|**references**                                                        |
+|--------------------------------------------------------------------------------------------------------------------------------|------------|----------------------------------------------------------------------|
+|[country_coordinates.csv](./country_coordinates.csv)                                                                            |            |                                                                      |
+|[country_employment.csv](./country_employment.csv)                                                                              |            |                                                                      |
+|[country_freedom_indices.csv](./country_freedom_indices.csv)                                                                    |            |                                                                      |
+|[ILGA-RIWI_2016.csv](./ILGA-RIWI_2016.csv)                                                                                      |            |                                                                      |
+|[OECD_Employment_Outlook_2016_growth_rates_real_employment.csv](./OECD_Employment_Outlook_2016_growth_rates_real_employment.csv)|            |                                                                      |
+|[OECD_Employment_Outlook_2016_growth_rates_real_GDP.csv](./OECD_Employment_Outlook_2016_growth_rates_real_GDP.csv)              |            |                                                                      |
+|[Pew_Global_Attitudes_Homosexuality_Report_2014.csv](./Pew_Global_Attitudes_Homosexuality_Report_2014.csv)                      |            |                                                                      |
+|[UNODC_murder_rates_2014.csv](./UNODC_murder_rates_2014.csv)                                                                    |            |                                                                      |
+|[World_Happiness_Report_2017.csv](./World_Happiness_Report_2017.csv)                                                            |            |                                                                      |
+|[Gini_index_World_Bank_estimate.csv](./Gini_index_World_Bank_estimate.csv)                                                      |            |[reference](https://data.worldbank.org/indicator/SI.POV.GINI?view=map)|
 
 # tentative analyses
 
